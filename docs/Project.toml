@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuliaEcosystem = "546b353d-2739-4ef6-90e9-044269f96df2"
