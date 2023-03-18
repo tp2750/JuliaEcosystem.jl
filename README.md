@@ -7,3 +7,4 @@
 This is my attempt to get an overview of the Julia ecosystem and essencial pacages.
 It is not as comprehencive as https://github.com/svaksha/Julia.jl and represents my own view.
 
+* [Package Development](docs/src/package_dev.md)
