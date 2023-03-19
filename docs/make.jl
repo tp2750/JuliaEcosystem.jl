@@ -15,7 +15,15 @@ makedocs(;
         assets=String[],
     ),
     pages=[
-        "Home" => "index.md",
+        ## "Home" => "index.md",
+        "Package Development" => "package_dev.md",
+        "Debugging" => "debugging.md",
+        "Profiling" => "profiling.md",
+        "Github Organizations" => "github_organizations.md",
+        "Reporting" => "reporting.md",
+        "Plotting" => "plotting.md",
+        "Data Science" => "data_science.md",
+        "CAS" => "cas.md",
     ],
 )
 

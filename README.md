@@ -7,4 +7,13 @@
 This is my attempt to get an overview of the Julia ecosystem and essencial pacages.
 It is not as comprehencive as https://github.com/svaksha/Julia.jl and represents my own view.
 
+Good places to find packages:
+
+* https://github.com/svaksha/Julia.jl
+* [JuliaObserver](http://cdn.juliaobserver.com/packages)
+* [JuliaHub Packages](https://juliahub.com/ui/Packages)
+* [Julia Packages](https://juliapackages.com/packages)
+
+## Sections
+
 * [Package Development](docs/src/package_dev.md)
