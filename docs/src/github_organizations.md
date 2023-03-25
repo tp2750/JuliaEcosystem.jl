@@ -156,6 +156,7 @@ https://github.com/SciML
 * [Bessels.jl](https://github.com/JuliaMath/Bessels.jl)
 * [GSL.jl](https://github.com/JuliaMath/GSL.jl)
 * [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl)
+* [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl)
 
 ## BioJulia
 ![BioJulia](https://avatars.githubusercontent.com/u/6486271?s=200&v=4)
@@ -166,6 +167,16 @@ https://github.com/SciML
 * [Kmers.jl](https://github.com/BioJulia/Kmers.jl)
 * [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl)
 * 
+
+## JuliaPhysics 
+![JuliaPhysics](https://avatars.githubusercontent.com/u/29034810?s=200&v=4)
+
+* [Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl)
+* [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl)
+* [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl)
+* [PhysicsTutorials.jl](https://github.com/JuliaPhysics/PhysicsTutorials.jl)
+* [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl)
+* [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl)
 
 ## JuliaMusic
 ![JuliaMusic](https://avatars.githubusercontent.com/u/39520806?s=200&v=4)
@@ -321,3 +332,4 @@ https://genieframework.com/
 * [JML.jl](https://github.com/thautwarm/JML.jl)
 * [Tilde.jl](https://github.com/cscherrer/Tilde.jl)
 * [Soss.jl](https://github.com/cscherrer/Soss.jl)
+* [Unitful.jl](https://github.com/PainterQubits/Unitful.jl)
