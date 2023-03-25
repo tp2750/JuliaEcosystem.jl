@@ -28,6 +28,8 @@ Many packages are maintained in gihub organizations.
 
 
 ## JuliaDocs
+![JuliaDocs](https://avatars.githubusercontent.com/u/19620248?s=200&v=4)
+
 
 *  [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
   - [DocumenterTools.jl](https://github.com/JuliaDocs/DocumenterTools.jl)
@@ -234,6 +236,13 @@ https://github.com/AlgebraicJulia
 * [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl)
 * [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl)
 
+
+## Jump-dev
+![jump](https://avatars.githubusercontent.com/u/48496332?s=200&v=4)
+
+* [JuMP.jl](https://github.com/jump-dev/JuMP.jl)
+
+
 # Web
 
 ## JuliaWeb
@@ -325,11 +334,6 @@ https://github.com/JuliaMusic
 * [AudioSchedules.jl](https://github.com/JuliaMusic/AudioSchedules.jl)
 
 
-## Jacob Quinn
-
-* [JSON3.jl](https://github.com/quinnj/JSON3.jl)
-
-
 ## JunoLab
 ![JunoLab](https://avatars.githubusercontent.com/u/8275281?s=200&v=4)
 
@@ -339,10 +343,6 @@ https://github.com/JuliaMusic
 * [Juno.jl](https://github.com/JunoLab/Juno.jl) Deprecated.
 
 
-## Jump-dev
-![jump](https://avatars.githubusercontent.com/u/48496332?s=200&v=4)
-
-* [JuMP.jl](https://github.com/jump-dev/JuMP.jl)
 
 
 ## Notable not in orgs:
@@ -369,3 +369,8 @@ Tim is almost a one-man organization
 * [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl)
 * [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl)
 * [Rebugger.jl](https://github.com/timholy/Rebugger.jl)
+
+## Jacob Quinn
+
+* [JSON3.jl](https://github.com/quinnj/JSON3.jl)
+
