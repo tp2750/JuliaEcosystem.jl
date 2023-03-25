@@ -2,6 +2,31 @@
 
 Many packages are maintained in gihub organizations.
 
+# General
+
+
+## The Julia Programming Language 
+![JuliaLang](https://avatars.githubusercontent.com/u/743164?s=200&v=4)
+
+* [julia](https://github.com/JuliaLang/julia)
+* [juliaup](https://github.com/JuliaLang/juliaup)
+* [Pkg.jl](https://github.com/JuliaLang/Pkg.jl)
+* [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)
+* [IJulia.jl](https://github.com/JuliaLang/IJulia.jl)
+* [Downloads.jl](https://github.com/JuliaLang/Downloads.jl)
+* [JuliaSyntax.jl](https://github.com/JuliaLang/JuliaSyntax.jl)
+* [Tokenize.jl](https://github.com/JuliaLang/Tokenize.jl)
+
+## JuliaIO
+![JuliaIO](https://avatars.githubusercontent.com/u/11489324?s=200&v=4)
+
+* [JSON.jl](https://github.com/JuliaIO/JSON.jl)
+* [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
+* [HDF5.jl](https://github.com/JuliaIO/HDF5.jl)
+* [FileIO.jl](https://github.com/JuliaIO/FileIO.jl)
+* [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
+
+
 ## JuliaDocs
 
 *  [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)
@@ -10,16 +35,6 @@ Many packages are maintained in gihub organizations.
 * [Highlights.jl](https://github.com/JuliaDocs/Highlights.jl)
 * [Julia-Cheat-Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet)
 
-## Tim Holy
-
-Tim is almost a one-man organization
-
-* [Revise.jl](https://github.com/timholy/Revise.jl)
-* [ProfileView.jl](https://github.com/timholy/ProfileView.jl)
-* [AdvancedScientificComputing](https://github.com/timholy/AdvancedScientificComputing)
-* [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl)
-* [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl)
-* [Rebugger.jl](https://github.com/timholy/Rebugger.jl)
 
 ## JuliaDebug 
 ![Juliadebug](https://avatars.githubusercontent.com/u/46803805?s=200&v=4)
@@ -39,7 +54,22 @@ Tim is almost a one-man organization
 * https://github.com/JuliaCI/BenchmarkTools.jl
 * https://github.com/JuliaCI/PkgBenchmark.jl
 * https://github.com/JuliaCI/Coverage.jl
-* 
+
+
+## [JuliaParallel](https://github.com/JuliaParallel) 
+![JuliaParallel](https://avatars.githubusercontent.com/u/10119367?s=200&v=4)
+
+* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+* [DTables.jl](https://github.com/JuliaParallel/DTables.jl)
+* [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl)
+* [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
+* [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl)
+* [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl)
+* [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl)
+* [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
+
+
+# Visualizations
 
 ## [JuliaPlots](https://github.com/JuliaPlots)
 ![JuliaPlots](https://avatars.githubusercontent.com/u/19197049?s=200&v=4)
@@ -65,6 +95,19 @@ Tim is almost a one-man organization
 * [Biplots.jl](https://github.com/MakieOrg/Biplots.jl)
 * [TopoPlots.jl](https://github.com/MakieOrg/TopoPlots.jl)
 
+## JuliaGraphics
+![JuliaGraphics](https://avatars.githubusercontent.com/u/8106190?s=200&v=4)
+
+* [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl)
+* [Winston.jl](https://github.com/JuliaGraphics/Winston.jl)
+* [Colors.jl](https://github.com/JuliaGraphics/Colors.jl)
+* [ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl)
+* [Gtk.jl](https://github.com/JuliaGraphics/Gtk.jl)
+* [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) Dive deeper into your data with interactive graphics (Gtk based)
+
+
+# Scientific
+
 ## [Julia Statistics](https://github.com/JuliaStats)
 ![JuliaStats](https://avatars.githubusercontent.com/u/2761531?s=200&v=4)
 
@@ -89,19 +132,67 @@ https://github.com/JuliaStats
 * [CSV.jl](https://github.com/JuliaData/CSV.jl)
 * [IndexedTables.jl](https://github.com/JuliaData/IndexedTables.jl)
 * [JuliaDB.jl (deprecated)](https://github.com/JuliaData/JuliaDB.jl (deprecated))
+
+## Queryverse
+
+* [Queryverse.jl](https://github.com/queryverse/Queryverse.jl)
+* [Query.jl](https://github.com/queryverse/Query.jl)
+* [IterableTables.jl](https://github.com/queryverse/IterableTables.jl)
+* [VegaLite.jl](https://github.com/queryverse/VegaLite.jl)
+* [CSVFiles.jl](https://github.com/queryverse/CSVFiles.jl)
+* [ExcelFiles.jl](https://github.com/queryverse/ExcelFiles.jl)
+
+
+
+## SciML: Open Source Scientific Machine Learning 
+![SciML](https://avatars.githubusercontent.com/u/21238080?s=200&v=4)
+https://github.com/SciML
+
+* [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
+* [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)
+* [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl)
+* [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl)
+* [SciMLExpectations.jl](https://github.com/SciML/SciMLExpectations.jl)
+* [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
+* [StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl)
+* [SciMLDocs](https://github.com/SciML/SciMLDocs)
+* [SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl)
+* [NBodySimulator.jl](https://github.com/SciML/NBodySimulator.jl)
+* [DifferenceEquations.jl](https://github.com/SciML/DifferenceEquations.jl)
+* [DiffEqGPU.jl](https://github.com/SciML/DiffEqGPU.jl)
+
+## BioJulia
+![BioJulia](https://avatars.githubusercontent.com/u/6486271?s=200&v=4)
+
+* [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
+* [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl)
+* [Automa.jl](https://github.com/BioJulia/Automa.jl)
+* [Kmers.jl](https://github.com/BioJulia/Kmers.jl)
+* [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl)
 * 
+## JuliaMolSim: Molecular Simulation in Julia 
+![JuliaMolSim](https://avatars.githubusercontent.com/u/57396615?s=200&v=4)
 
-## [JuliaParallel](https://github.com/JuliaParallel) ![JuliaParallel](https://avatars.githubusercontent.com/u/10119367?s=200&v=4)
+* [Molly.jl](https://github.com/JuliaMolSim/Molly.jl)
+* [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl)
+* [MolSim](https://github.com/JuliaMolSim/MolSim)  Registry
+* [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl)
+* [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl)
+* [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) Related
 
-* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
-* [DTables.jl](https://github.com/JuliaParallel/DTables.jl)
-* [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl)
-* [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
-* [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl)
-* [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl)
-* [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl)
-* [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
 
+## JuliaPhysics 
+![JuliaPhysics](https://avatars.githubusercontent.com/u/29034810?s=200&v=4)
+
+* [Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl)
+* [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl)
+* [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl)
+* [PhysicsTutorials.jl](https://github.com/JuliaPhysics/PhysicsTutorials.jl)
+* [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl)
+* [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl)
+
+
+# Mathematics
 
 ## [OSCAR Computer Algebra System](https://github.com/oscar-system)
 ![Oscar](https://avatars.githubusercontent.com/u/25104835?s=200&v=4)
@@ -122,22 +213,6 @@ https://github.com/AlgebraicJulia
 * [AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 * [Semagrams.jl](https://github.com/AlgebraicJulia/Semagrams.jl)
 
-## SciML: Open Source Scientific Machine Learning 
-![SciML](https://avatars.githubusercontent.com/u/21238080?s=200&v=4)
-https://github.com/SciML
-
-* [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
-* [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)
-* [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl)
-* [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl)
-* [SciMLExpectations.jl](https://github.com/SciML/SciMLExpectations.jl)
-* [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
-* [StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl)
-* [SciMLDocs](https://github.com/SciML/SciMLDocs)
-* [SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl)
-* [NBodySimulator.jl](https://github.com/SciML/NBodySimulator.jl)
-* [DifferenceEquations.jl](https://github.com/SciML/DifferenceEquations.jl)
-* [DiffEqGPU.jl](https://github.com/SciML/DiffEqGPU.jl)
 
 ## Nemocas
 
@@ -159,53 +234,7 @@ https://github.com/SciML
 * [ChangesOfVariables.jl](https://github.com/JuliaMath/ChangesOfVariables.jl)
 * [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl)
 
-## BioJulia
-![BioJulia](https://avatars.githubusercontent.com/u/6486271?s=200&v=4)
-
-* [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl)
-* [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl)
-* [Automa.jl](https://github.com/BioJulia/Automa.jl)
-* [Kmers.jl](https://github.com/BioJulia/Kmers.jl)
-* [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl)
-* 
-
-## JuliaPhysics 
-![JuliaPhysics](https://avatars.githubusercontent.com/u/29034810?s=200&v=4)
-
-* [Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl)
-* [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl)
-* [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl)
-* [PhysicsTutorials.jl](https://github.com/JuliaPhysics/PhysicsTutorials.jl)
-* [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl)
-* [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl)
-
-## JuliaMusic
-![JuliaMusic](https://avatars.githubusercontent.com/u/39520806?s=200&v=4)
-
-https://github.com/JuliaMusic
-
-* [MIDI.jl](https://github.com/JuliaMusic/MIDI.jl)
-* [MusicXML.jl](https://github.com/JuliaMusic/MusicXML.jl)
-* [MusicManipulations.jl](https://github.com/JuliaMusic/MusicManipulations.jl)
-* [Mplay.jl](https://github.com/JuliaMusic/Mplay.jl)
-* [MusicProcessing.jl](https://github.com/JuliaMusic/MusicProcessing.jl)
-* [MusicVisualizations.jl](https://github.com/JuliaMusic/MusicVisualizations.jl)
-* [AudioSchedules.jl](https://github.com/JuliaMusic/AudioSchedules.jl)
-
-
-## JuliaGraphics
-![JuliaGraphics](https://avatars.githubusercontent.com/u/8106190?s=200&v=4)
-
-* [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl)
-* [Winston.jl](https://github.com/JuliaGraphics/Winston.jl)
-* [Colors.jl](https://github.com/JuliaGraphics/Colors.jl)
-* [ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl)
-* [Gtk.jl](https://github.com/JuliaGraphics/Gtk.jl)
-* [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) Dive deeper into your data with interactive graphics (Gtk based)
-
-## Jacob Quinn
-
-* [JSON3.jl](https://github.com/quinnj/JSON3.jl)
+# Web
 
 ## JuliaWeb
 ![JuliaWeb](https://avatars.githubusercontent.com/u/8564604?s=200&v=4)
@@ -220,14 +249,6 @@ https://github.com/JuliaMusic
 * [MIMEs.jl](https://github.com/JuliaWeb/MIMEs.jl)
 * [Hyperscript.jl](https://github.com/JuliaWeb/Hyperscript.jl)
 
-## JunoLab
-![JunoLab](https://avatars.githubusercontent.com/u/8275281?s=200&v=4)
-
-* [Weave.jl](https://github.com/JunoLab/Weave.jl)
-* [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl)
-* [LNR.jl](https://github.com/JunoLab/LNR.jl)
-* [Juno.jl](https://github.com/JunoLab/Juno.jl) Deprecated.
-
 ## Genie Framework
 ![Genie](https://avatars.githubusercontent.com/u/50237769?s=200&v=4)
 
@@ -239,36 +260,13 @@ https://genieframework.com/
 * [StippleCharts.jl](https://github.com/GenieFramework/StippleCharts.jl)
 * [SearchLight.jl](https://github.com/GenieFramework/SearchLight.jl)
 * [StipplePlotly.jl](https://github.com/GenieFramework/StipplePlotly.jl)
-* [GenieAuthentication.jl](https://github.com/GenieFramework/GenieAuthentication.jl)
+* [GenieBuilder.jl](https://github.com/GenieFramework/GenieBuilder.jl)
 * [GenieFramework.jl](https://github.com/GenieFramework/GenieFramework.jl)
-* 
+* [GenieBuilderDemos](https://github.com/GenieFramework/GenieBuilderDemos)
+* [GenieAuthentication.jl](https://github.com/GenieFramework/GenieAuthentication.jl)
+* [GenieDevTools.jl](https://github.com/GenieFramework/GenieDevTools.jl)
 
-## Queryverse
-
-* [Queryverse.jl](https://github.com/queryverse/Queryverse.jl)
-* [Query.jl](https://github.com/queryverse/Query.jl)
-* [IterableTables.jl](https://github.com/queryverse/IterableTables.jl)
-* [VegaLite.jl](https://github.com/queryverse/VegaLite.jl)
-* [CSVFiles.jl](https://github.com/queryverse/CSVFiles.jl)
-* [ExcelFiles.jl](https://github.com/queryverse/ExcelFiles.jl)
-* 
-
-## The Julia Programming Language 
-![JuliaLang](https://avatars.githubusercontent.com/u/743164?s=200&v=4)
-
-* [julia](https://github.com/JuliaLang/julia)
-* [juliaup](https://github.com/JuliaLang/juliaup)
-* [Pkg.jl](https://github.com/JuliaLang/Pkg.jl)
-* [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)
-* [IJulia.jl](https://github.com/JuliaLang/IJulia.jl)
-* [Downloads.jl](https://github.com/JuliaLang/Downloads.jl)
-* [JuliaSyntax.jl](https://github.com/JuliaLang/JuliaSyntax.jl)
-* [Tokenize.jl](https://github.com/JuliaLang/Tokenize.jl)
-
-## Jump-dev
-![jump](https://avatars.githubusercontent.com/u/48496332?s=200&v=4)
-
-* [JuMP.jl](https://github.com/jump-dev/JuMP.jl)
+# Machine Learning
 
 ## FluxML
 ![FluxML](https://avatars.githubusercontent.com/u/26222520?s=200&v=4)
@@ -278,15 +276,6 @@ https://genieframework.com/
 * [NNlib.jl](https://github.com/FluxML/NNlib.jl)
 * [FastAI.jl](https://github.com/FluxML/FastAI.jl)
 * [MacroTools.jl](https://github.com/FluxML/MacroTools.jl)
-
-## JuliaIO
-![JuliaIO](https://avatars.githubusercontent.com/u/11489324?s=200&v=4)
-
-* [JSON.jl](https://github.com/JuliaIO/JSON.jl)
-* [JLD2.jl](https://github.com/JuliaIO/JLD2.jl)
-* [HDF5.jl](https://github.com/JuliaIO/HDF5.jl)
-* [FileIO.jl](https://github.com/JuliaIO/FileIO.jl)
-* [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
 
 ## [JuliaReinforcementLearning](https://github.com/JuliaReinforcementLearning)
 ![JuliaReinforcementLearning ](https://avatars.githubusercontent.com/u/42187908?s=200&v=4)
@@ -319,30 +308,42 @@ https://genieframework.com/
 * [TransformerBlocks.jl](https://github.com/JuliaMLTools/TransformerBlocks.jl)
 * [EuclidGraphs.jl](https://github.com/JuliaMLTools/EuclidGraphs.jl)
 
-## JuliaMolSim: Molecular Simulation in Julia 
-![JuliaMolSim](https://avatars.githubusercontent.com/u/57396615?s=200&v=4)
 
-* [Molly.jl](https://github.com/JuliaMolSim/Molly.jl)
-* [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl)
-* [MolSim](https://github.com/JuliaMolSim/MolSim)  Registry
-* [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl)
-* [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl)
-* [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) Related
+# Other 
 
-## Genie Framework 
-![GenieFramedowk](https://avatars.githubusercontent.com/u/50237769?s=200&v=4)
+## JuliaMusic
+![JuliaMusic](https://avatars.githubusercontent.com/u/39520806?s=200&v=4)
 
-* [Genie.jl](https://github.com/GenieFramework/Genie.jl)
-* [Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
-* [StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl)
-* [StippleCharts.jl](https://github.com/GenieFramework/StippleCharts.jl)
-* [SearchLight.jl](https://github.com/GenieFramework/SearchLight.jl)
-* [StipplePlotly.jl](https://github.com/GenieFramework/StipplePlotly.jl)
-* [GenieBuilder.jl](https://github.com/GenieFramework/GenieBuilder.jl)
-* [GenieFramework.jl](https://github.com/GenieFramework/GenieFramework.jl)
-* [GenieBuilderDemos](https://github.com/GenieFramework/GenieBuilderDemos)
-* [GenieAuthentication.jl](https://github.com/GenieFramework/GenieAuthentication.jl)
-* [GenieDevTools.jl](https://github.com/GenieFramework/GenieDevTools.jl)
+https://github.com/JuliaMusic
+
+* [MIDI.jl](https://github.com/JuliaMusic/MIDI.jl)
+* [MusicXML.jl](https://github.com/JuliaMusic/MusicXML.jl)
+* [MusicManipulations.jl](https://github.com/JuliaMusic/MusicManipulations.jl)
+* [Mplay.jl](https://github.com/JuliaMusic/Mplay.jl)
+* [MusicProcessing.jl](https://github.com/JuliaMusic/MusicProcessing.jl)
+* [MusicVisualizations.jl](https://github.com/JuliaMusic/MusicVisualizations.jl)
+* [AudioSchedules.jl](https://github.com/JuliaMusic/AudioSchedules.jl)
+
+
+## Jacob Quinn
+
+* [JSON3.jl](https://github.com/quinnj/JSON3.jl)
+
+
+## JunoLab
+![JunoLab](https://avatars.githubusercontent.com/u/8275281?s=200&v=4)
+
+* [Weave.jl](https://github.com/JunoLab/Weave.jl)
+* [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl)
+* [LNR.jl](https://github.com/JunoLab/LNR.jl)
+* [Juno.jl](https://github.com/JunoLab/Juno.jl) Deprecated.
+
+
+## Jump-dev
+![jump](https://avatars.githubusercontent.com/u/48496332?s=200&v=4)
+
+* [JuMP.jl](https://github.com/jump-dev/JuMP.jl)
+
 
 ## Notable not in orgs:
 
@@ -357,3 +358,14 @@ https://genieframework.com/
 * [Soss.jl](https://github.com/cscherrer/Soss.jl)
 * [Unitful.jl](https://github.com/PainterQubits/Unitful.jl)
 * [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl)
+
+## Tim Holy
+
+Tim is almost a one-man organization
+
+* [Revise.jl](https://github.com/timholy/Revise.jl)
+* [ProfileView.jl](https://github.com/timholy/ProfileView.jl)
+* [AdvancedScientificComputing](https://github.com/timholy/AdvancedScientificComputing)
+* [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl)
+* [SnoopCompile.jl](https://github.com/timholy/SnoopCompile.jl)
+* [Rebugger.jl](https://github.com/timholy/Rebugger.jl)
