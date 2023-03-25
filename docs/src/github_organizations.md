@@ -277,7 +277,7 @@ https://genieframework.com/
 * [Zygote.jl](https://github.com/FluxML/Zygote.jl)
 * [NNlib.jl](https://github.com/FluxML/NNlib.jl)
 * [FastAI.jl](https://github.com/FluxML/FastAI.jl)
-* 
+* [MacroTools.jl](https://github.com/FluxML/MacroTools.jl)
 
 ## JuliaIO
 ![JuliaIO](https://avatars.githubusercontent.com/u/11489324?s=200&v=4)
@@ -328,6 +328,21 @@ https://genieframework.com/
 * [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl)
 * [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl)
 * [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) Related
+
+## Genie Framework 
+![GenieFramedowk](https://avatars.githubusercontent.com/u/50237769?s=200&v=4)
+
+* [Genie.jl](https://github.com/GenieFramework/Genie.jl)
+* [Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
+* [StippleUI.jl](https://github.com/GenieFramework/StippleUI.jl)
+* [StippleCharts.jl](https://github.com/GenieFramework/StippleCharts.jl)
+* [SearchLight.jl](https://github.com/GenieFramework/SearchLight.jl)
+* [StipplePlotly.jl](https://github.com/GenieFramework/StipplePlotly.jl)
+* [GenieBuilder.jl](https://github.com/GenieFramework/GenieBuilder.jl)
+* [GenieFramework.jl](https://github.com/GenieFramework/GenieFramework.jl)
+* [GenieBuilderDemos](https://github.com/GenieFramework/GenieBuilderDemos)
+* [GenieAuthentication.jl](https://github.com/GenieFramework/GenieAuthentication.jl)
+* [GenieDevTools.jl](https://github.com/GenieFramework/GenieDevTools.jl)
 
 ## Notable not in orgs:
 
