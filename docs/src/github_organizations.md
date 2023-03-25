@@ -84,6 +84,7 @@ https://github.com/JuliaStats
 ![JuliaData](https://avatars.githubusercontent.com/u/20142970?s=200&v=4)
 
 * [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl)
+* [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl)
 * [RData.jl](https://github.com/JuliaData/RData.jl)
 * [CSV.jl](https://github.com/JuliaData/CSV.jl)
 * [IndexedTables.jl](https://github.com/JuliaData/IndexedTables.jl)
@@ -311,6 +312,13 @@ https://genieframework.com/
 * [TuringTutorials](https://github.com/TuringLang/TuringTutorials)
 * 
 
+## JuliaMLTools
+![JuliaMLTools](https://avatars.githubusercontent.com/u/84589679?v=4)
+
+* [GraphNets.jl](https://github.com/JuliaMLTools/GraphNets.jl)
+* [TransformerBlocks.jl](https://github.com/JuliaMLTools/TransformerBlocks.jl)
+* [EuclidGraphs.jl](https://github.com/JuliaMLTools/EuclidGraphs.jl)
+
 ## JuliaMolSim: Molecular Simulation in Julia 
 ![JuliaMolSim](https://avatars.githubusercontent.com/u/57396615?s=200&v=4)
 
@@ -333,3 +341,4 @@ https://genieframework.com/
 * [Tilde.jl](https://github.com/cscherrer/Tilde.jl)
 * [Soss.jl](https://github.com/cscherrer/Soss.jl)
 * [Unitful.jl](https://github.com/PainterQubits/Unitful.jl)
+* [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl)
