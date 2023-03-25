@@ -300,6 +300,16 @@ https://genieframework.com/
 * [TuringTutorials](https://github.com/TuringLang/TuringTutorials)
 * 
 
+## JuliaMolSim: Molecular Simulation in Julia 
+![JuliaMolSim](https://avatars.githubusercontent.com/u/57396615?s=200&v=4)
+
+* [Molly.jl](https://github.com/JuliaMolSim/Molly.jl)
+* [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl)
+* [MolSim](https://github.com/JuliaMolSim/MolSim)  Registry
+* [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl)
+* [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl)
+* [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) Related
+
 ## Notable not in orgs:
 
 * [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl)
