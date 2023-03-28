@@ -358,6 +358,7 @@ https://github.com/JuliaMusic
 * [Soss.jl](https://github.com/cscherrer/Soss.jl)
 * [Unitful.jl](https://github.com/PainterQubits/Unitful.jl)
 * [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl)
+* [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl)
 
 ## Tim Holy
 
