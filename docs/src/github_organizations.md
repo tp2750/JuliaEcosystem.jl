@@ -71,6 +71,15 @@ Many packages are maintained in gihub organizations.
 * [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
 
 
+## jolin.io
+![jolin.io](https://avatars.githubusercontent.com/u/97626324?s=200&v=4)
+
+* [StructEquality.jl](https://github.com/jolin-io/StructEquality.jl)
+* [IsDef.jl](https://github.com/jolin-io/IsDef.jl)
+* [SimpleMatch.jl](https://github.com/jolin-io/SimpleMatch.jl)
+* [Continuables.jl](https://github.com/jolin-io/Continuables.jl)
+* 
+
 # Visualizations
 
 ## [JuliaPlots](https://github.com/JuliaPlots)
