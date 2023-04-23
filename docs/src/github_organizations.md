@@ -49,6 +49,14 @@ Many packages are maintained in gihub organizations.
 * [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl)
 * [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl)
 
+## JuliaLogging
+![JuliaLogging](https://avatars.githubusercontent.com/u/86418567?s=200&v=4)
+
+* https://github.com/JuliaLogging
+* Howto Enable debug https://julialogging.github.io/how-to/enable-debug/
+* LoggingExtras https://github.com/JuliaLogging/LoggingExtras.jl
+
+
 ## JuliaCI
 
 ![juliaCI](https://avatars.githubusercontent.com/u/9957604?s=200&v=4)
