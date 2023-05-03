@@ -38,6 +38,11 @@ Many packages are maintained in gihub organizations.
 * [Julia-Cheat-Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet)
 
 
+## JuliaTesting
+![JuliaTesting](https://avatars.githubusercontent.com/u/67037081?s=200&v=4)
+
+* [Aqua](https://github.com/JuliaTesting/Aqua.jl) Auto QUality Assurance for Julia packages
+
 ## JuliaDebug 
 ![Juliadebug](https://avatars.githubusercontent.com/u/46803805?s=200&v=4)
 
