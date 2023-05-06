@@ -84,6 +84,15 @@ Many packages are maintained in gihub organizations.
 * [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
 
 
+## JuliaCloud
+![JuliaCloud](https://avatars.githubusercontent.com/u/21245400?s=200&v=4)
+
+* [LambdaMaker.jl](https://github.com/JuliaCloud/LambdaMaker.jl) Boilerplate generator for AWS lambda service
+
+See also 
+
+* [Jot.jl](https://github.com/harris-chris/Jot.jl) Jot streamlines the creation and management of AWS Lambda functions written in Julia.
+
 ## jolin.io
 ![jolin.io](https://avatars.githubusercontent.com/u/97626324?s=200&v=4)
 
