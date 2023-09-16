@@ -84,6 +84,12 @@ Many packages are maintained in gihub organizations.
 * [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
 
 
+## [JuliaSIMD](https://github.com/JuliaSIMD)
+![JuliaSIMD](https://avatars.githubusercontent.com/u/80543003?s=200&v=4)
+
+* <https://github.com/JuliaSIMD/LoopVectorization.jl>
+* <https://github.com/JuliaSIMD/Polyester.jl> "The cheapest threads you can find!"
+
 ## JuliaCloud
 ![JuliaCloud](https://avatars.githubusercontent.com/u/21245400?s=200&v=4)
 
@@ -224,6 +230,11 @@ https://github.com/SciML
 * [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl)
 * [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl)
 
+## JuliaTDA: Topological Data Analysis in Julia
+![JuliaTDA](https://avatars.githubusercontent.com/u/139277332?s=200&v=4)
+* https://github.com/JuliaTDA/ToMATo.jl
+* https://github.com/JuliaTDA/GeometricDatasets.jl
+* https://github.com/JuliaTDA/TDAmapper.jl
 
 # Mathematics
 
@@ -246,6 +257,7 @@ https://github.com/AlgebraicJulia
 * [AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 * [Semagrams.jl](https://github.com/AlgebraicJulia/Semagrams.jl)
 
+https://johncarlosbaez.wordpress.com/2023/08/17/agent-based-models-part-2/
 
 ## Nemocas
 
