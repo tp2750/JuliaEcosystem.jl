@@ -236,6 +236,13 @@ https://github.com/SciML
 * https://github.com/JuliaTDA/GeometricDatasets.jl
 * https://github.com/JuliaTDA/TDAmapper.jl
 
+## JuliaHealth 
+![JuliaHealth](https://avatars.githubusercontent.com/u/64336345?s=200&v=4)
+* <https://github.com/JuliaHealth/PubChemCrawler.jl> easy query PubChem
+* <https://github.com/JuliaHealth/FHIRClient.jl> access [HL7 FHIR](https://hl7.org/fhir/)
+* https://github.com/JuliaHealth/SMARTAppLaunch.jl access [SMART apps](https://docs.smarthealthit.org/)
+
+
 # Mathematics
 
 ## [OSCAR Computer Algebra System](https://github.com/oscar-system)
