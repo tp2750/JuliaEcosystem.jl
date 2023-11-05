@@ -79,7 +79,7 @@ Many packages are maintained in gihub organizations.
 * [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl)
 * [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl)
 * [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl)
-* [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl)
+* [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) A framework for out-of-core and parallel computing heavily inspired by [Dask](https://docs.dask.org/en/latest/)
 * [Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl)
 * [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl)
 
