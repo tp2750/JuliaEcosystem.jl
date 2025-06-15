@@ -23,7 +23,8 @@ makedocs(;
         "Reporting" => "reporting.md",
         "Plotting" => "plotting.md",
         "Data Science" => "data_science.md",
-        "CAS" => "cas.md",
+        "CAS - Computer Algebra Systems" => "cas.md",
+        "Chemistry" => "chemistry.md",
     ],
 )
 
