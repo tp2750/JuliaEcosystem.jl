@@ -61,6 +61,14 @@ Many packages are maintained in gihub organizations.
 * Howto Enable debug https://julialogging.github.io/how-to/enable-debug/
 * LoggingExtras https://github.com/JuliaLogging/LoggingExtras.jl
 
+## JuliaStrings
+![JuliaStrings](https://avatars.githubusercontent.com/u/34897951?s=200&v=4)
+
+* [StringViews.jl](https://github.com/JuliaStrings/StringViews.jl) see also https://github.com/JuliaLang/julia/pull/60526
+* [StringEncodings.jl](https://github.com/JuliaStrings/StringEncodings.jl)
+* [LaTeXStrings.jl](https://github.com/JuliaStrings/LaTeXStrings.jl)
+* [NaturalSort.jl](https://github.com/JuliaStrings/NaturalSort.jl)
+* [InlineStrings.jl](https://github.com/JuliaStrings/InlineStrings.jl)
 
 ## JuliaCI
 
