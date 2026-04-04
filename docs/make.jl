@@ -25,6 +25,7 @@ makedocs(;
         "Data Science" => "data_science.md",
         "CAS - Computer Algebra Systems" => "cas.md",
         "Chemistry" => "chemistry.md",
+        "GIS - Geographic Information Systems" => "gis.md",
     ],
 )
 
